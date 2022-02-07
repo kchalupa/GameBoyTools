@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "kchalupa.GameBoy.Tools.MapDesigner/1.0.0": {
+        "dependencies": {
+          "kchalupa.GameBoy.Tools.Models": "1.0.0"
+        },
+        "runtime": {
+          "kchalupa.GameBoy.Tools.MapDesigner.dll": {}
+        }
+      },
+      "kchalupa.GameBoy.Tools.Models/1.0.0": {
+        "runtime": {
+          "kchalupa.GameBoy.Tools.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kchalupa.GameBoy.Tools.MapDesigner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "kchalupa.GameBoy.Tools.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
